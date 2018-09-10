@@ -34,8 +34,8 @@ import ChoreTab from './tabs/ChoreTab';
 import DrawTab from './tabs/DrawTab';
 
 import styles from '../Styles';
-
-const url = 'https://c56f787d.ngrok.io'
+import url from '../url';
+// const url = 'https://c56f787d.ngrok.io'
 
 class GroupView extends React.Component {
 

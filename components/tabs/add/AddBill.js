@@ -29,9 +29,9 @@ import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import { ImagePicker, Camera, Permissions } from 'expo';
 
 import styles from '../../Styles'
+import url from '../../url';
 
-
-const url = 'https://c56f787d.ngrok.io'
+// const url = 'https://46fb06a7.ngrok.io'
 
 
 class AddBill extends React.Component {

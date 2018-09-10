@@ -15,7 +15,8 @@ import { AppLoading, Asset, Font, Icon } from 'expo';
 import styles from './Styles';
 import logo from '../assets/shareliving-logo1.png';
 
-const url = 'https://c56f787d.ngrok.io'
+import url from './url';
+// const url = 'https://c56f787d.ngrok.io'
 
 
 class Logo extends React.Component {

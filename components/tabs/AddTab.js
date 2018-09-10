@@ -23,7 +23,8 @@ import styles from '../Styles'
 import AddBill from './add/AddBill';
 import AddChore from './add/AddChore';
 
-const url = 'https://c56f787d.ngrok.io'
+import url from '../url';
+//const url = 'https://46fb06a7.ngrok.io'
 
 class AddTab extends React.Component {
   constructor(props) {

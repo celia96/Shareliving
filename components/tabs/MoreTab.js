@@ -7,8 +7,8 @@ import SlidingUpPanel from 'rn-sliding-up-panel';
 import { connect } from 'react-redux';
 
 import styles from '../Styles'
-
-const url = 'https://c56f787d.ngrok.io'
+import url from '../url';
+// const url = 'https://46fb06a7.ngrok.io'
 
 
 class MoreTab extends React.Component {

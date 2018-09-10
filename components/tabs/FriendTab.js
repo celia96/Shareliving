@@ -21,8 +21,9 @@ import Swipeout from 'react-native-swipeout';
 import _ from 'lodash';
 
 import styles from '../Styles'
+import url from '../url';
 
-const url = 'https://c56f787d.ngrok.io'
+// const url = 'https://46fb06a7.ngrok.io'
 
 // search friends like venmo
 class FriendTab extends React.Component {

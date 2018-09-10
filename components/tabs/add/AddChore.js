@@ -28,10 +28,9 @@ import Entypo from 'react-native-vector-icons/Entypo';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import { ImagePicker, Camera, Permissions } from 'expo';
 
-import styles from '../../Styles'
-
-
-const url = 'https://c56f787d.ngrok.io'
+import styles from '../../Styles';
+import url from '../../url';
+// const url = 'https://46fb06a7.ngrok.io'
 
 class AddChore extends React.Component {
 

@@ -30,8 +30,8 @@ import { createMaterialTopTabNavigator } from 'react-navigation';
 import styles from '../../Styles';
 import BillDetail from './details/BillDetail';
 
-
-const url = 'https://c56f787d.ngrok.io'
+import url from '../../url';
+// const url = 'https://c56f787d.ngrok.io'
 
 class BillTab extends React.Component {
   constructor(props) {

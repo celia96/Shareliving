@@ -3,7 +3,8 @@ import { StyleSheet, Text, View, TextInput, TouchableOpacity, KeyboardAvoidingVi
 import { NativeRouter, Route, Link } from 'react-router-native'
 import styles from './Styles'
 
-const url = 'https://c56f787d.ngrok.io'
+import url from './url';
+// const url = 'https://c56f787d.ngrok.io'
 
 export default class Signup extends React.Component {
 

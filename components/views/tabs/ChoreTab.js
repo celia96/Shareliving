@@ -28,8 +28,8 @@ import Swipeout from 'react-native-swipeout';
 import { createMaterialTopTabNavigator } from 'react-navigation';
 
 import styles from '../../Styles';
-
-const url = 'https://c56f787d.ngrok.io'
+import url from '../../url';
+// const url = 'https://c56f787d.ngrok.io'
 
 class ChoreTab extends React.Component {
 

@@ -6,8 +6,8 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import SlidingUpPanel from 'rn-sliding-up-panel';
 
 import styles from '../Styles'
-
-const url = 'https://c56f787d.ngrok.io'
+import url from '../url';
+// const url = 'https://46fb06a7.ngrok.io'
 
 // shows up everytime someone adds a bill or chores
 

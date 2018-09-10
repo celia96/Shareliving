@@ -27,8 +27,8 @@ import { StackNavigator } from 'react-navigation';
 
 import Icon from 'react-native-vector-icons/FontAwesome';
 
-
-const url = 'https://c56f787d.ngrok.io'
+import url from './url';
+// const url = 'https://c56f787d.ngrok.io'
 
 
 class Login extends React.Component {

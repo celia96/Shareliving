@@ -24,7 +24,8 @@ import _ from 'lodash';
 
 import styles from '../../Styles';
 
-const url = 'https://c56f787d.ngrok.io'
+import url from '../../url';
+// const url = 'https://c56f787d.ngrok.io'
 
 class DrawTab extends React.Component {
 

@@ -19,9 +19,10 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 import { connect } from 'react-redux';
 import Swipeout from 'react-native-swipeout';
 
-import styles from '../Styles'
+import styles from '../Styles';
+import url from '../url';
 
-const url = 'https://c56f787d.ngrok.io'
+// const url = 'https://46fb06a7.ngrok.io'
 
 class GroupTab extends React.Component {
 

@@ -31,8 +31,9 @@ import { ImagePicker, Camera, Permissions } from 'expo';
 
 
 import styles from '../../../Styles';
+import url from '../../../url';
 
-const url = 'https://c56f787d.ngrok.io'
+// const url = 'https://c56f787d.ngrok.io'
 
 class ChoreDetail extends React.Component {
 
