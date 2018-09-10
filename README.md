@@ -7,32 +7,32 @@
 
 ## Login
 
-![](https://s3.ezgif.com/save/ezgif-3-3e95ce77e9.gif)
+![login](https://user-images.githubusercontent.com/33583168/45282341-93002100-b515-11e8-9eb7-16ac1368e587.gif)
 
 
 ## Group Tab
 
-![](https://s3.ezgif.com/save/ezgif-3-f373966587.gif)
+![group](https://user-images.githubusercontent.com/33583168/45282340-93002100-b515-11e8-880c-a4a0d459f876.gif)
 
 
 ## Friend Tab
 
-![](https://s3.ezgif.com/save/ezgif-3-7248fb5cfd.gif)
+![friend](https://user-images.githubusercontent.com/33583168/45282338-93002100-b515-11e8-8d3d-3a2c18260e39.gif)
 
 
 ## Adding a new Bill
 
-![](https://s3.ezgif.com/save/ezgif-3-f00c4d87c1.gif)
+![newbill](https://user-images.githubusercontent.com/33583168/45282342-93002100-b515-11e8-8a2e-016201ae09b2.gif)
 
 
 ## Adding a new Chore
 
-![](https://s3.ezgif.com/save/ezgif-3-0d7f68248e.gif)
+![newchore](https://user-images.githubusercontent.com/33583168/45282343-9398b780-b515-11e8-8c77-4eb9edaa819d.gif)
 
 
 ## Bill and Chore Tabs
 
-![](https://s3.ezgif.com/save/ezgif-3-fc0a81ac4f.gif)
+![tabs](https://user-images.githubusercontent.com/33583168/45282345-9398b780-b515-11e8-8b9e-405e05303ffa.gif)
 
 
 ## Bill Detail
@@ -40,13 +40,12 @@
 ![billdetail](https://user-images.githubusercontent.com/33583168/45282282-72d06200-b515-11e8-8012-1a19b4e983a6.gif)
 
 
-
 ## Chore Detail
 
-![](https://s3.ezgif.com/save/ezgif-3-5d98cc58fa.gif)
+![choredetail](https://user-images.githubusercontent.com/33583168/45282337-92678a80-b515-11e8-96d7-ed973f4c2b48.gif)
 
 
 ## Setting
 
-![](https://s3.ezgif.com/save/ezgif-3-58bec6cdd3.gif)
+![setting](https://user-images.githubusercontent.com/33583168/45282344-9398b780-b515-11e8-84f8-c3ae87d5495d.gif)
 
