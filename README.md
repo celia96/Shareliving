@@ -37,7 +37,8 @@
 
 ## Bill Detail
 
-![](https://s3.ezgif.com/save/ezgif-3-f037ce75ae.gif)
+![billdetail](https://user-images.githubusercontent.com/33583168/45282282-72d06200-b515-11e8-8012-1a19b4e983a6.gif)
+
 
 
 ## Chore Detail
