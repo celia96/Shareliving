@@ -2,12 +2,12 @@ const express = require('express')
 const app = express()
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose');
-
+const PORT = process.env.PORT || 3000;
 var http = require('http')
 var socketio = require('socket.io');
 var server = http.Server(app);
 var websocket = socketio(server);
-server.listen(3000, () => console.log('listening on *:3000'));
+server.listen(PORT, () => console.log('listening on *: ', PORT));
 
 var models = require('./models');
 var User = models.User;
@@ -544,7 +544,3 @@ app.get('/user/:id', (req, res) => {
       res.json({success: true, user: user})
     })
 })
-
-websocket.on('connection', (socket) => {
-
-});
