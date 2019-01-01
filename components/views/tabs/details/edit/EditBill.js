@@ -19,7 +19,7 @@ import SlidingUpPanel from 'rn-sliding-up-panel';
 import DatePicker from 'react-native-datepicker';
 import RNPickerSelect from 'react-native-picker-select';
 import { TextField } from 'react-native-material-textfield';
-import LabelSelect from 'react-native-label-select';
+import LabelSelect from '../../LabelSelect';
 import { Dropdown } from 'react-native-material-dropdown';
 
 import { connect } from 'react-redux';

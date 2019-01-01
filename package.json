@@ -25,7 +25,6 @@
     "react-native-drawer": "^2.5.0",
     "react-native-elements": "^0.19.1",
     "react-native-keyboard-aware-scroll-view": "^0.7.0",
-    "react-native-label-select": "^1.1.0",
     "react-native-material-dropdown": "^0.11.1",
     "react-native-picker-select": "^4.2.0",
     "react-native-segmented-control-tab": "^3.3.1",

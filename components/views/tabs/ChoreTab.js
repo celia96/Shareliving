@@ -16,7 +16,6 @@ import {
 import { FormLabel, FormInput, FormValidationMessage, ListItem } from 'react-native-elements'
 import SlidingUpPanel from 'rn-sliding-up-panel';
 import DatePicker from 'react-native-datepicker';
-import LabelSelect from 'react-native-label-select';
 import { Dropdown } from 'react-native-material-dropdown';
 
 import { connect } from 'react-redux';
