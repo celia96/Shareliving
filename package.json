@@ -6,9 +6,16 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server.js"
   },
   "dependencies": {
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.3",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth": "^1.0.0",
+    "passport-local": "^1.0.0",
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.3",
     "cookie-session": "^2.0.0-beta.3",
