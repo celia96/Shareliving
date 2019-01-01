@@ -1,3 +1,3 @@
-const url = 'https://shareliving.herokuapp.com/';
+const url = 'https://shareliving.herokuapp.com';
 
 export default url;

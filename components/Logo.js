@@ -41,7 +41,7 @@ class Logo extends React.Component {
         console.log("R", result);
         if (result) {
           var parsedResult = JSON.parse(result);
-          console.log(parsedResult);
+          console.log(parsedResult, url);
           var email = parsedResult.email;
           var password = parsedResult.password;
           if (email && password) {
