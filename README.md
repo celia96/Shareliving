@@ -7,7 +7,7 @@
 
 ## Login
 
-![login](https://user-images.githubusercontent.com/33583168/45282341-93002100-b515-11e8-9eb7-16ac1368e587.gif)
+![login](https://user-images.githubusercontent.com/33583168/45282341-93002100-b515-11e8-9eb7-16ac1368e587.gif = 250x)
 
 
 ## Group Tab
