@@ -5,6 +5,13 @@
 
 - Currently working on facilitating payment when the expenses are settled
 
+# Demo
+1. Install dependencies
+- npm i
+
+2. Run ios simulator
+- npm run ios
+
 ## Login
 
 <img src="https://user-images.githubusercontent.com/33583168/45282341-93002100-b515-11e8-9eb7-16ac1368e587.gif" width="300">
