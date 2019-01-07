@@ -6,7 +6,7 @@
 - Currently working on facilitating payment when the expenses are settled
 
 ## Demo
-1. Install dependencies
+1. Install packages
 - npm i
 
 2. Run ios simulator
