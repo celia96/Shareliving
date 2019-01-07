@@ -5,7 +5,7 @@
 
 - Currently working on facilitating payment when the expenses are settled
 
-# Demo
+## Demo
 1. Install dependencies
 - npm i
 
